@@ -2,7 +2,7 @@
 <h1 align="center"> Hey, I’m Cameron!👋</h1>
 <h3 align="center"> Full Stack Web Developer </h3>
 
-- 📖 I am currently learning more about the **MERN stack**
+- 📚 I am currently learning more about the **MERN stack**
 - 🏁 I've recently been working on my first restful API project - Check it out <a href="https://github.com/CameronWD/Restful-API-Project-Assessment"> here </a>!
 - 📨 Want to connect? Reach out on <a href="https://www.linkedin.com/in/cameron-williams-93318a238/"> LinkedIn </a> or email me at cwilliams.developer@gmail.com
 <p> I'm a full-stack web developer with a passion for building interesting, user-friendly, and polished projects. I am a lifelong learner that enjoys understanding new technologies and problem-solving. With a background in management and mental health, I focus on user needs and ensure applications are accessible and intuitive. My experiences have also cultivated my skills in collaboration and teamwork. I believe in the power of diverse perspectives and I’m known for fostering positive relationships within teams to drive projects forward and achieve common goals.<br><br>
