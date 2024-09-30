@@ -2,7 +2,7 @@
 <h1 align="center"> Hey, I’m Cameron!👋</h1>
 <h3 align="center"> Full Stack Developer </h3>
 
-<p>I’m a Full Stack Web Developer with a passion for creating user-friendly, responsive web applications. I’m actively learning and improving my skills, always staying up to date with the latest technologies and best practices. I enjoy solving problems and building projects that make a real impact.<br><br>
+<p>I’m a Full Stack Developer with a passion for creating user-friendly, responsive web applications. I’m actively learning and improving my skills, always staying up to date with the latest technologies and best practices. I enjoy solving problems and building projects that make a real impact.<br><br>
 I am constantly wanting to learn and push my abilities. Please feel free to reach out about any opporutunites that I may be a good fit for. </p>
 
 📨 Reach out on <a href="https://www.linkedin.com/in/cameron-williams-93318a238/"> LinkedIn </a> or send an email to cwilliams.developer@gmail.com <br><br>
